@@ -1,0 +1,58 @@
+.container{background-color: grey;
+margin-top: 10px;
+width: 100%;}
+
+.navbar{background-color: black;
+padding: 10px 0px;
+float: left;
+width: 90%;}
+
+li{display: inline;
+margin: 10px;}
+
+a{color: rgb(255, 255, 255);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+text-decoration: none;
+font-weight: bold;}
+
+
+body{background-color: gray;}
+
+.logo{float: left;
+background-color: black;
+padding: 6px 0px;
+width: 10%;}
+
+.contenet{height: 350Spx ;
+width: 100px;
+position: relative;}
+
+.img1{
+    background-image:url("apex-hero-md-s17-home-page-7x2-xl.jpg.adapt.crop7x2.1920w.jpg") ;
+    width: 100%;
+    padding: 125px;
+    
+}
+h3{font-size: 50px;
+color: rgb(255, 255, 255);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+p{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    
+}
+
+.button{
+    background-color: rgb(253, 41, 41);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 16px;
+    padding: 15px 10px;
+    -ms-transform: translate(-50%,-50%);
+    transform: translateY(-50%,-50%);}
+    
+
+
